@@ -1,0 +1,5 @@
+Credentials cache: API:8C7AB24A-55A6-4CF0-8719-25C9C9F5015E
+        Principal: cewong@42KL.EDU.MY
+
+  Issued                Expires               Principal
+Aug  5 10:10:35 2021  Aug  5 20:10:27 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
